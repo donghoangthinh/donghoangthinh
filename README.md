@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @donghoangthinh
 - 👀 I’m interested in investing in travel & tech
 - 🌱 I’m currently learning Spanish
-- 💞️ I’m looking to collaborate on CRM
+- 💞️ I’m looking to collaborate on CRM, EduTech, HealthTech, TravelTech
 - 📫 How to reach me thinhdh@enet.io
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
